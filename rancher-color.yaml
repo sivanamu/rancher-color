@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: ranchercolor-container
-        image: sivanamu/rancher-color-blue:latest
+        image: sivanamu/rancher-color-orange:latest
         ports:
         - containerPort: 80 #Endpoint is at port 80 in the container
 ---
